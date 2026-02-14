@@ -1,0 +1,13 @@
+# Ignore environment file
+.env
+
+# Ignore compiled class files
+*.class
+
+# Ignore IDE files
+.vscode/
+*.iml
+*.idea/
+
+# Ignore libraries if you want (optional, you can push lib/)
+lib/mysql-connector-j-*.jar
